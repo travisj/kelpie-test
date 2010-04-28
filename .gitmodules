@@ -1,0 +1,3 @@
+[submodule "library/kelpie"]
+	path = library/kelpie
+	url = git://github.com/dhotson/kelpie.git
